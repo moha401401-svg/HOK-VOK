@@ -29,7 +29,7 @@
 <p>
   <a href="www.youtube.com/@hokvok1" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white"/></a>
   <a href="https://github.com/HOKVOK" target="_blank"><img src="https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="mailto:moha401401@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="28"/></a>
+  <a href="mailto:moha401401@gmail.com" target="_blank"> <img src=https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241  width="28"/></a>
 </p>
 
 </p>
